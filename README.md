@@ -1,1 +1,3 @@
-# ml4w-04-teachablemachine
+# Machine Learning for the Web, Week 04
+
+![screenshot](docs/head-gesture.gif)
